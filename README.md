@@ -55,11 +55,13 @@ docs/       Project report (PDF)
 - Intended for lab and educational use. Review it before using it in production.
 ## Team Members
 
+## Team Members
+
 This graduation project was collaboratively developed by six Cybersecurity students at King Saud University.
 
-- [Besan Al-Habardi](https://github.com/besanalhabardi-hash)
-- [Alaa](https://github.com/AlaaBTS22)
-- [Ghala](https://github.com/ghala26)
-- [Lujain](https://github.com/lujainharbicyb-lang)
-- [Rawan](https://github.com/Ra966n)
-- [Rana](https://github.com/Rana9717)
+- [Alaa Majed Batais](https://github.com/AlaaBTS22)
+- [Besan Al Habardi](https://github.com/besanalhabardi-hash)
+- [Lujain Harbi](https://github.com/lujainharbicyb-lang)
+- [Ghala Al-Qahtani](https://github.com/ghala26)
+- [Rawan Al Qahtani](https://github.com/Ra966n)
+- [Rana Al Harbi](https://github.com/Rana9717)
