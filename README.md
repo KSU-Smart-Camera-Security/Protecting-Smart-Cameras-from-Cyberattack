@@ -53,3 +53,13 @@ docs/       Project report (PDF)
 - The RTSP protection drops all traffic to port 554, including legitimate viewers.
 - When HTTPS is enabled the browser may block the camera stream (it is served over plain HTTP inside the page). A reverse proxy would fix this too.
 - Intended for lab and educational use. Review it before using it in production.
+## Team Members
+
+This graduation project was collaboratively developed by six Cybersecurity students at King Saud University.
+
+- [Besan Al-Habardi](https://github.com/besanalhabardi-hash)
+- [Alaa](https://github.com/AlaaBTS22)
+- [Ghala](https://github.com/ghala26)
+- [Lujain](https://github.com/lujainharbicyb-lang)
+- [Rawan](https://github.com/Ra966n)
+- [Rana](https://github.com/Rana9717)
